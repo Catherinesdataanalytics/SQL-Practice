@@ -9,3 +9,5 @@ W3school sql tutorials: https://www.w3schools.com/sql/
 sqlzoo online practice :http://sqlzoo.net
 
 Leetcode database: https://leetcode.com/problemset/database/
+
+SQL Cheat sheet [sql cheatsheet ](http://files.zeroturnaround.com/pdf/zt_sql_cheat_sheet.pdf)
